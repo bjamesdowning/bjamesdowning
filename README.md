@@ -63,7 +63,7 @@ More enablement demos: [gl-demo-ultimate-bdowning](https://gitlab.com/gl-demo-ul
 - [Trading Technical Debt for Managed Services in the Cloud](https://sterling.com/trading-technical-debt-for-managed-services-in-the-cloud/) (Jun 2021)
 - [vSphere with Tanzu: The Fastest Route to a Modern Infrastructure](https://sterling.com/vsphere-with-tanzu-the-fastest-route-to-a-modern-infrastructure/) (Nov 2021)
 - [Distributed Security with NSX-T, Part 1](https://sterling.com/distributed-security-with-nsx-t-part-1/) · [Part 2](https://sterling.com/distributed-security-with-nsx-t-part-2/) (Apr 2022)
-- [GitOps with VMware Tanzu for Automated Application and Service Delivery](https://sterling.com/gitops-with-vmware-tanzu-for-automated-application-and-service-delivery/) (Aug 2022) — *confirm authorship if your byline isn't on the page*
+- [GitOps with VMware Tanzu for Automated Application and Service Delivery](https://sterling.com/gitops-with-vmware-tanzu-for-automated-application-and-service-delivery/) (Aug 2022)
 
 **Press**
 - GovLoop interview: [Trading Technical Debt for Managed Services in the Cloud](https://web.archive.org/web/20260307180206/https://www.govloop.com/trading-technical-debt-for-managed-services-in-the-cloud/)
@@ -109,7 +109,6 @@ More enablement demos: [gl-demo-ultimate-bdowning](https://gitlab.com/gl-demo-ul
 ## Talks & podcasts
 - **K8sKoach streamcast** (Kubernetes / NetDevOps, LinkedIn Live): [watch](https://www.linkedin.com/events/k8skoach-astreamcastonkubernete7279512843157139456/theater/)
 - **Packet Pushers, Priority Queue 146:** *Practical Python: Deploying BFD* — [watch my recording](https://youtu.be/ur243yp9K_I)
-- **Upcoming:** personal podcast episode (audio TBD) — placeholder
 - Speaking: VMware Explore 2022 (GitOps), Dell Technologies World, NATO
 - **Dell Technologies Exam Developer (2019):** Selected by Dell to help write a Proven Professional **data center** exam — [Credly badge](https://www.credly.com/badges/64fcd6c3-5687-4fcb-a095-8edbcc22bfa3/public_url)
 
