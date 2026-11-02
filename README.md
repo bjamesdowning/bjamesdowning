@@ -108,7 +108,7 @@ More enablement demos: [gl-demo-ultimate-bdowning](https://gitlab.com/gl-demo-ul
 
 ## Talks & podcasts
 - **K8sKoach streamcast** (Kubernetes / NetDevOps, LinkedIn Live): [watch](https://www.linkedin.com/events/k8skoach-astreamcastonkubernete7279512843157139456/theater/)
-- **Packet Pushers, Priority Queue 146:** *Practical Python: Deploying BFD* *(episode URL currently broken — drop a working link when you have it)*
+- **Packet Pushers, Priority Queue 146:** *Practical Python: Deploying BFD* — [watch my recording](https://youtu.be/ur243yp9K_I)
 - **Upcoming:** personal podcast episode (audio TBD) — placeholder
 - Speaking: VMware Explore 2022 (GitOps), Dell Technologies World, NATO
 - **Dell Technologies Exam Developer (2019):** Selected by Dell to help write a Proven Professional **data center** exam — [Credly badge](https://www.credly.com/badges/64fcd6c3-5687-4fcb-a095-8edbcc22bfa3/public_url)
