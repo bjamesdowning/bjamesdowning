@@ -1,6 +1,6 @@
 # Hi, I'm Billy Downing 👋
 
-**Network engineer based in Dublin, Ireland.** I've designed and run production networks since 2011: USMC tactical/greenfield, Booz Allen, LCRA dual data centres, a Vectrus MPLS backbone, and Sterling DC fabrics and migrations. From 2022 I worked as a Customer Success Manager (GitLab, then Fin), helping teams build NetDevOps and GitOps pipelines. I'm now moving back into **hands-on DC and backbone network engineering**: BGP, IGP, EVPN/VXLAN, leaf-spine, and automation that takes repetitive work off the team.
+**Network engineer based in Dublin, Ireland.** Also on [GitLab](https://gitlab.com/bjamesdowning). I've designed and run production networks since 2011: USMC tactical/greenfield, Booz Allen, LCRA dual data centres, a Vectrus MPLS backbone, and Sterling DC fabrics and migrations. From 2022 I worked as a Customer Success Manager (GitLab, then Fin), helping teams build NetDevOps and GitOps pipelines. I'm now moving back into **hands-on DC and backbone network engineering**: BGP, IGP, EVPN/VXLAN, leaf-spine, and automation that takes repetitive work off the team.
 
 > Below: what I've built, written, and talked about. Production work is labelled as production; demos and labs are labelled as demos and labs.
 
