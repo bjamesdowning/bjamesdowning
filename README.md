@@ -31,24 +31,24 @@
 A self-healing network lab. Two Nokia SR Linux switches run BGP; gnmic → Prometheus → Alertmanager detects a broken session. A Python agent gathers context over MCP from NetBox (intent), Prometheus (live state), and SR Linux, asks a local LLM for a decision, and can only push a JSON-RPC fix once the evidence checks out. *Learning lab, not production.*
 
 ### [corp-dc: GitOps for Network Engineers](https://gitlab.com/gl-demo-ultimate-bdowning/netdevops/corp-dc) · demo · 2024
-NetDevOps reference pipeline I built for customer enablement at GitLab: two FRR routers with BGP in **Containerlab**. CI lints configs, **Batfish** validates BGP adjacency, STIG-style Python checks cover hostname/IPv6/routing, an ephemeral lab is built and torn down, and deploy is gated through MR review + CODEOWNERS. *Digital-twin/demo pipeline — not a customer production underlay.*  
+NetDevOps reference pipeline I built for customer enablement at GitLab: two FRR routers with BGP in **Containerlab**. CI lints configs, **Batfish** validates BGP adjacency, STIG-style Python checks cover hostname/IPv6/routing, an ephemeral lab is built and torn down, and deploy is gated through MR review + CODEOWNERS. *Digital-twin/demo pipeline, not a customer production underlay.*  
 More enablement demos: [gl-demo-ultimate-bdowning](https://gitlab.com/gl-demo-ultimate-bdowning)
 
 ### Network labs (GitHub)
-- [MPLS-Traffic-Engineering](https://github.com/bjamesdowning/MPLS-Traffic-Engineering) — Cisco MPLS-TE lab configs
-- [MP-BGP](https://github.com/bjamesdowning/MP-BGP) — multiprotocol BGP lab
-- [IPsec-Modes](https://github.com/bjamesdowning/IPsec-Modes) — transport vs tunnel mode
-- [netmiko_pull](https://github.com/bjamesdowning/netmiko_pull) — pull state from Cisco with Netmiko
+- [MPLS-Traffic-Engineering](https://github.com/bjamesdowning/MPLS-Traffic-Engineering): Cisco MPLS-TE lab configs
+- [MP-BGP](https://github.com/bjamesdowning/MP-BGP): multiprotocol BGP lab
+- [IPsec-Modes](https://github.com/bjamesdowning/IPsec-Modes): transport vs tunnel mode
+- [netmiko_pull](https://github.com/bjamesdowning/netmiko_pull): pull state from Cisco with Netmiko
 - [gofigure](https://github.com/bjamesdowning/gofigure) · [TemplateGen](https://github.com/bjamesdowning/TemplateGen) · [orchlab](https://github.com/bjamesdowning/orchlab)
 
 ### Platform / GitOps
-- [vmware-explore-gitops](https://gitlab.com/bjamesdowning/vmware-explore-gitops) — VMware Explore 2022 GitOps demo
-- [tanzuworkshop](https://github.com/bjamesdowning/tanzuworkshop) — Tanzu workshops from Sterling
-- [terraform-flux-eks](https://gitlab.com/bjamesdowning/terraform-flux-eks) — Terraform + Flux on EKS
+- [vmware-explore-gitops](https://gitlab.com/bjamesdowning/vmware-explore-gitops): VMware Explore 2022 GitOps demo
+- [tanzuworkshop](https://github.com/bjamesdowning/tanzuworkshop): Tanzu workshops from Sterling
+- [terraform-flux-eks](https://gitlab.com/bjamesdowning/terraform-flux-eks): Terraform + Flux on EKS
 - [explore-gitops-infra](https://gitlab.com/bjamesdowning/explore-gitops-infra) / [explore-gitops-app](https://gitlab.com/bjamesdowning/explore-gitops-app)
 
 ### Side builds
-- [Ration](https://github.com/bjamesdowning/ration-mirror) — kitchen-management app with an MCP server so AI agents can use it
+- [Ration](https://github.com/bjamesdowning/ration-mirror): kitchen-management app with an MCP server so AI agents can use it
 
 ---
 
@@ -68,7 +68,7 @@ More enablement demos: [gl-demo-ultimate-bdowning](https://gitlab.com/gl-demo-ul
 **Press**
 - GovLoop interview: [Trading Technical Debt for Managed Services in the Cloud](https://web.archive.org/web/20260307180206/https://www.govloop.com/trading-technical-debt-for-managed-services-in-the-cloud/)
 
-**Personal blog — [billydowning.io](https://billydowning.io/)** (network engineering study notes, by topic):
+**Personal blog: [billydowning.io](https://billydowning.io/)** (network engineering study notes, by topic):
 
 *Datacenter fabrics / EVPN / VXLAN*
 - [Cumulus Linux VXLAN](https://billydowning.io/home/cumulus-vxlan)
@@ -140,11 +140,11 @@ More enablement demos: [gl-demo-ultimate-bdowning](https://gitlab.com/gl-demo-ul
 
 ## Talks & podcasts
 - **K8sKoach streamcast** (Kubernetes / NetDevOps, LinkedIn Live): [watch](https://www.linkedin.com/events/k8skoach-astreamcastonkubernete7279512843157139456/theater/)
-- **Packet Pushers, Priority Queue 146:** *Practical Python: Deploying BFD* — [watch my recording](https://youtu.be/ur243yp9K_I)
+- **Packet Pushers, Priority Queue 146:** *Practical Python: Deploying BFD*: [watch my recording](https://youtu.be/ur243yp9K_I)
 - Speaking: VMware Explore 2022 (GitOps), Dell Technologies World, NATO
-- **Dell Technologies Exam Developer (2019):** Selected by Dell to help write a Proven Professional **data center** exam — [Credly badge](https://www.credly.com/badges/64fcd6c3-5687-4fcb-a095-8edbcc22bfa3/public_url)
+- **Dell Technologies Exam Developer (2019):** Selected by Dell to help write a Proven Professional **data center** exam: [Credly badge](https://www.credly.com/badges/64fcd6c3-5687-4fcb-a095-8edbcc22bfa3/public_url)
 
 ---
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/billy-downing-38806084/) · [GitLab](https://gitlab.com/bjamesdowning) · [GitHub](https://github.com/bjamesdowning) · [Blog](https://billydowning.io/) · [Credly](https://www.credly.com/users/billy-downing/badges/credly) · Dublin, Ireland (Stamp 4)
+[LinkedIn](https://www.linkedin.com/in/billy-downing/) · [GitLab](https://gitlab.com/bjamesdowning) · [GitHub](https://github.com/bjamesdowning) · [Blog](https://billydowning.io/) · [Credly](https://www.credly.com/users/billy-downing/badges/credly) · Dublin, Ireland (Stamp 4)
