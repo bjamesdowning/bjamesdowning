@@ -104,6 +104,38 @@ More enablement demos: [gl-demo-ultimate-bdowning](https://gitlab.com/gl-demo-ul
 - [Ways to take notes](https://billydowning.io/home/learning-different-ways-to-take-notes)
 
 
+## Certifications
+
+| Vendor | Certification | Issued | Expires |
+|---|---|---|---|
+| Cisco | CCNP Enterprise | Jul 2014 | Nov 2024 |
+| Cisco | CCDP (Design Professional) | Jul 2015 | May 2021 |
+| Cisco | CCDA (Design Associate) | Apr 2015 | May 2021 |
+| Cisco | CCNA | Sep 2013 | Nov 2024 |
+| Cisco | DevNet Specialist, Core | Nov 2021 | Nov 2024 |
+| AWS | Advanced Networking, Specialty | Jul 2022 | Jul 2025 |
+| AWS | Solutions Architect, Associate | Feb 2021 | Feb 2024 |
+| AWS | Cloud Practitioner | Apr 2020 | Apr 2023 |
+| Google Cloud | Associate Cloud Engineer | Dec 2020 | Dec 2023 |
+| Oracle | OCI 2021 Architect Associate | Dec 2021 | None listed |
+| VMware | VCAP, Network Virtualization Design 2019 | Dec 2019 | None listed |
+| VMware | VCP, Network Virtualization 2019 (VCP-NV) | Feb 2019 | Feb 2023 |
+| VMware | VCP, Application Modernization 2022 | Feb 2022 | None listed |
+| VMware | Master Specialist, Cloud Native 2020 | Jul 2020 | None listed |
+| VMware | VMware Cloud on AWS, SDDC 2020 | Mar 2020 | Mar 2023 |
+| VMware | VCP6, Data Center Virtualization | Jan 2018 | Feb 2021 |
+| Aruba (HPE) | ACMP, Mobility Professional V8 | Jul 2019 | Jul 2022 |
+| Aruba (HPE) | ACMA, Mobility Associate V8 | Mar 2019 | Jul 2022 |
+| Dell | Certified Professional, Networking | Nov 2018 | Nov 2020 |
+| Dell | Certified Associate, Networking | Oct 2018 | Nov 2020 |
+| Linux Foundation | CKA (Kubernetes Administrator) | Jun 2020 | Jun 2023 |
+| Isovalent | Cilium Multicast | Feb 2024 | None listed |
+| Red Hat | Delivery Specialist, Automation | Jul 2019 | Jul 2021 |
+| CompTIA | CASP (Advanced Security Practitioner) | May 2017 | May 2020 |
+| CompTIA | Security+ | Feb 2015 | May 2020 |
+
+---
+
 ---
 
 ## Talks & podcasts
