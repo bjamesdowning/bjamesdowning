@@ -1,6 +1,6 @@
 # Hi, I'm Billy Downing 👋
 
-**Network engineer based in Dublin, Ireland.** Also on [GitLab](https://gitlab.com/bjamesdowning). I've designed and run production networks since 2011: USMC tactical/greenfield, Booz Allen, LCRA dual data centres, a Vectrus MPLS backbone, and Sterling DC fabrics and migrations. From 2022 I worked as a Customer Success Manager (GitLab, then Fin), helping teams build NetDevOps and GitOps pipelines. I'm now moving back into **hands-on DC and backbone network engineering**: BGP, IGP, EVPN/VXLAN, leaf-spine, and automation that takes repetitive work off the team.
+**Network engineer based in Dublin, Ireland.** Also on [GitLab](https://gitlab.com/bjamesdowning). I've designed and run production networks since 2011: USMC tactical/greenfield, Booz Allen, LCRA dual data centres, a Vectrus MPLS backbone, and Sterling DC fabrics and migrations. From 2022 I worked as a Customer Success Manager (GitLab, then Fin), helping teams build NetDevOps and GitOps pipelines. I'm now moving back into **hands-on DC and backbone network engineering**: BGP, IGP, EVPN/VXLAN, leaf-spine, and automation that takes repetitive work off the team. My current focus is **lossless Ethernet fabrics for AI and HPC data centres**: RDMA, RoCEv2, and congestion control with PFC, ECN, and DCQCN.
 
 > Below: what I've built, written, and talked about. Production work is labelled as production; demos and labs are labelled as demos and labs.
 
@@ -12,7 +12,7 @@
 |---|---|
 | **2011–2022** | Hands-on network design and operations: DC, campus/core, MPLS backbone, Clos/VXLAN fabrics, NSX-V→T migrations |
 | **2022–now** | Customer Success Manager (GitLab Senior CSM → Fin). NetDevOps/GitOps enablement, CI pipelines, digital-twin demos |
-| **Now** | Rebuilding day-2 depth in labs: SR Linux/FRR BGP, telemetry-driven remediation (Axon), Arista EOS EVPN |
+| **Now** | Lossless AI/HPC fabrics (RDMA, RoCEv2, PFC, ECN, DCQCN), plus day-2 labs: SR Linux/FRR BGP, telemetry-driven remediation (Axon), Arista EOS EVPN |
 | **Studying** | Arista DC Engineering Specialist → NVIDIA NCP-AIN (AI networking) |
 
 ## Skills
